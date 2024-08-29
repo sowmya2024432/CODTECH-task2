@@ -18,3 +18,6 @@ hindi:92.0
 Average Grade:89.75
 Letter Grade:B
 GPA:3.00
+
+
+![Screenshot (3)](https://github.com/user-attachments/assets/8d3f36a1-3763-41e2-8412-2413a78ebb4b)
